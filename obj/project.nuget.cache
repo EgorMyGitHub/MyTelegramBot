@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ttZatL2NarZkhiKrLQgLBTC+eKug0ttIP4U3BMIf/bsA5nSJq2M17q+8DrI1lbw5NXfe62nFcyQjJ3ne6poXIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Егор\\RiderProjects\\Solution\\TelegramIplogger\\MyTelegramBot\\TelegramIplogger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Егор\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Егор\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\Егор\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512",
+    "C:\\Users\\Егор\\.nuget\\packages\\telegram.bot.extensions.polling\\2.0.0-alpha.1\\telegram.bot.extensions.polling.2.0.0-alpha.1.nupkg.sha512"
+  ],
+  "logs": []
+}
