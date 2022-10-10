@@ -197,7 +197,7 @@ namespace TelegramIplogger
     {
         private TelegramBotClient client;
 
-        private const string token = "5507094218:AAEw8iawhTqyaSjVtwfmAvMHYE9VCO1iS3Q";
+        private const string token = "";
 
         private string hostName = "";
 
